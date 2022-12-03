@@ -1,5 +1,5 @@
 {
-    "everythingmeth_language_name" : "中文 (繁体)",
+    "everythingmeth_language_name" : "中文 (简体)",
     "everythingmeth_title" : "Everything Meth",
     "everythingmeth_desc" : "",
     "everythingmeth_select_language_title" : "语言",
